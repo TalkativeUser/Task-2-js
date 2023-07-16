@@ -1,0 +1,38 @@
+
+h1 {
+
+    font-size: 80px;
+    font-family: Impact;
+    font-weight: bold;
+    margin: auto;
+    margin-top: 53.600px;
+    margin-bottom: 50px;
+    width: fit-content;
+    color: black;
+}
+
+.pr1,.pr2,.pr3 {
+
+    font-size: 35px;
+    width: fit-content;
+    margin: auto;
+    font-family: initial;
+    margin-bottom: 30px;
+}
+
+button {
+
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    /* transition: background-color 0.2s 0.1s; */
+    padding: 1px 6px;
+    font-size: 13px;
+ 
+}
+
+button:hover {
+    cursor: default;
+    background-color: green;
+}
